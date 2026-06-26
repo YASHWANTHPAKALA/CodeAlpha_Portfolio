@@ -14,7 +14,7 @@ The portfolio showcases my skills, projects, education, certifications, resume, 
 
 ## 📸 Homepage Preview
 
-![Portfolio Homepage](images/homepage.png)
+![Portfolio Homepage](images/Homepage.png)
 
 ---
 
